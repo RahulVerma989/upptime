@@ -6,6 +6,7 @@ sites:
   - name: JSON 2 Media
     url: https://www.json2media.com/
   - name: JSON 2 Media - API V1
+    method: POST
     url: https://json2media.com/v1/
     headers:
       - "Content-Type: application/json"
