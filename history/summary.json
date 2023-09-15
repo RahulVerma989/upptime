@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 272,
-    "timeWeek": 272,
-    "timeMonth": 272,
-    "timeYear": 272,
+    "time": 322,
+    "timeDay": 322,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/json2media.com.ico",
     "slug": "json-2-media-api-v1",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
-    "time": 314,
-    "timeDay": 314,
-    "timeWeek": 314,
-    "timeMonth": 314,
-    "timeYear": 314,
+    "uptime": "84.24%",
+    "uptimeDay": "84.24%",
+    "uptimeWeek": "84.24%",
+    "uptimeMonth": "84.24%",
+    "uptimeYear": "84.24%",
+    "time": 298,
+    "timeDay": 298,
+    "timeWeek": 298,
+    "timeMonth": 298,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 6
     }
   }
 ]
