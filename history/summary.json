@@ -1,22 +1,22 @@
 [
   {
     "name": "JSON 2 Media API - V1",
-    "url": "https://www.json2media.com/v1",
+    "url": "https://www.json2media.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.json2media.com.ico",
     "slug": "json-2-media-api-v1",
-    "status": "down",
-    "uptime": "0.78%",
-    "uptimeDay": "0.78%",
-    "uptimeWeek": "0.78%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
-    "time": 347,
-    "timeDay": 347,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "1.19%",
+    "uptimeDay": "1.19%",
+    "uptimeWeek": "1.19%",
+    "uptimeMonth": "1.19%",
+    "uptimeYear": "1.19%",
+    "time": 376,
+    "timeDay": 376,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2023-09-15": 1
+      "2023-09-15": 3
     }
   }
 ]
