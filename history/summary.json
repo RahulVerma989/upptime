@@ -4,19 +4,19 @@
     "url": "https://www.json2media.com/v1",
     "icon": "https://icons.duckduckgo.com/ip3/www.json2media.com.ico",
     "slug": "json-2-media-api-v1",
-    "status": "up",
-    "uptime": "17.56%",
-    "uptimeDay": "17.56%",
-    "uptimeWeek": "17.56%",
-    "uptimeMonth": "17.56%",
-    "uptimeYear": "17.56%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "down",
+    "uptime": "0.78%",
+    "uptimeDay": "0.78%",
+    "uptimeWeek": "0.78%",
+    "uptimeMonth": "0.78%",
+    "uptimeYear": "0.78%",
+    "time": 347,
+    "timeDay": 347,
+    "timeWeek": 347,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 1
     }
   }
 ]
