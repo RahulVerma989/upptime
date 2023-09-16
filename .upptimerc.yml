@@ -7,18 +7,10 @@ sites:
     url: https://www.json2media.com/
   - name: JSON 2 Media - API V1
     method: POST
-    url: https://json2media.com/v1/
+    url: https://www.json2media.com/v1/
     headers:
       - "Content-Type: application/json"
     body: '{ }'
-    expectedStatusCodes:
-      - 200
-      - 400
-      - 403
-      - 404
-      - 405
-      - 500
-      - 501
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
